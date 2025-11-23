@@ -35,5 +35,5 @@ h-index是科研实力的象征，其计算规则如下：若发布了n篇被引
 题目B：
 小林同学做了一个梦，梦见自己发了很多很多论文，并且引用量越来越高，其中第一篇论文引用量是1，第二篇论文的引用量也是1，第三篇论文的引用量是2，第四篇论文的引用数量就变成了3，总之，论文引用量呈现斐波那契数列。现在，输入小林发的论文数量n（保证n>2），请你计算一下他的h因子。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTc3MzYwOCwtNDYzMjQ5NzExXX0=
+eyJoaXN0b3J5IjpbMTIwOTc3MzYwOF19
 -->
